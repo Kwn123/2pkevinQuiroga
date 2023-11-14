@@ -1,0 +1,35 @@
+Deploy del Proyecto de Asistencias
+
+Instalación
+Requisitos Previos:
+Asegúrate de tener instalado Laragon en tu máquina.
+
+Pasos de Instalación
+Descarga el archivo de instalación de Laragon desde el sitio oficial.
+Sigue las instrucciones de instalación provistas por el instalador.
+Una vez instalado, asegúrate de iniciar Laragon para que pueda ejecutarse en tu sistema.
+
+Levantar el Proyecto de Asistencias
+Pasos para Levantar el Proyecto
+Abre Laragon y asegúrate de que el servidor Apache y la base de datos estén en ejecución. (Se encuentra en la carpeta BD)
+
+Coloca los archivos de tu proyecto en la carpeta www o DocumentRoot de Laragon. Puedes encontrar esta carpeta en C:\laragon\www (en Windows) si estás utilizando la instalación predeterminada de Laragon.
+Abre tu navegador web y accede a http://localhost/index.php para ver tu aplicación.
+
+Detalles de la Aplicación
+Tecnologías Utilizadas
+PHP (vX.X)
+JavaScript
+Bootstrap (vX.X)
+CSS
+
+Base de Datos
+Utiliza una base de datos MySQL incluida en Laragon.
+
+Funcionalidades
+
+Tu aplicación de asistencias proporciona las siguientes funcionalidades:
+Lista de alumnos.
+Lista de asistencias.
+Registro de asistencias.
+
